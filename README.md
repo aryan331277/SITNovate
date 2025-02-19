@@ -47,3 +47,17 @@ From this heatmap we can see that there are certain irrelevant columns, thus the
 
 And now we will work on ARIMA, ML and Data visualisations.
 Time: 5.00 pm
+
+
+Round 2:
+
+Data Preprocessing was done so shifted towards predictive analysis and data visualization.
+
+Figures 1-6 represent visualised data
+
+Started using Prophet
+
+
+Created 2 datasets and forecasting predictions for them one is for big data and one is small data
+
+Time 8:00 pm
