@@ -75,5 +75,22 @@ Analysis(powerbi) on the big data will be done
 
 Time : 11:00pm
 
+Round 4:
+
+
+Power BI for both the dataset is done.
+
+
+Worked on the 10k Dataset using ARIMA 
+
+
+Started working on simpler base line models like Lightgbm and Random Forest Regressor
+
+
+R^2 value of Neural Prophet had improved
+
+Time: 1:41am
+
+
 
 
