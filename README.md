@@ -57,6 +57,10 @@ Figures 1-4 represent visualised data
 Started using Prophet
 
 
+Created 2 datasets and forecasting predictions for them one is for big data and one is small data
+
+Time 8:00 pm
+
 Round 3:
 
 PowerBI is done
@@ -72,6 +76,4 @@ Analysis(powerbi) on the big data will be done
 Time : 11:00pm
 
 
-Created 2 datasets and forecasting predictions for them one is for big data and one is small data
 
-Time 8:00 pm
