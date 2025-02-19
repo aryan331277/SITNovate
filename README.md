@@ -96,5 +96,23 @@ If we remove the outliers the target values become constant as the outliers remo
 Time: 1:53 am
 
 
+Round 5:
+
+Made the R^2 and other parameters as optimal,MAE,MSE were also good. Done using GridSearchCV and HyperParameter Tuning
+
+Graph is also coming nicely. Need the graph of all models
+
+Worked on baseline models like xgb
+
+ARIMA still needs work
+
+Worked on documentation of the entire project
+
+Trying and making it scalable and simple at the same time
+
+
+
+
+
 
 
