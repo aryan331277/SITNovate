@@ -57,6 +57,21 @@ Figures 1-4 represent visualised data
 Started using Prophet
 
 
+Round 3:
+
+PowerBI is done
+
+Tried using ARIMA,Prophet and other techniques but did not work well
+
+NeuralProphet was picked for reliability
+
+r^2 value is 0.267 have to improve it
+
+Analysis(powerbi) on the big data will be done
+
+Time : 11:00pm
+
+
 Created 2 datasets and forecasting predictions for them one is for big data and one is small data
 
 Time 8:00 pm
