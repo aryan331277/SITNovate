@@ -15,10 +15,9 @@ Predict future sales using time_series analysis (ARIMA, Prophet) on historical d
  Data Collection  - 
 
  
-Data collection is done from the Kaggle dataset - 
+Data collection is done 
 
 
-https://www.kaggle.com/datasets/berkayalan/retail-sales-data/code
 
 
 That initially contained around 20 Million records.
