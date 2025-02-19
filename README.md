@@ -53,7 +53,7 @@ Round 2:
 
 Data Preprocessing was done so shifted towards predictive analysis and data visualization.
 
-Figures 1-6 represent visualised data
+Figures 1-4 represent visualised data
 
 Started using Prophet
 
