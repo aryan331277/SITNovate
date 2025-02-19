@@ -89,7 +89,11 @@ Started working on simpler base line models like Lightgbm and Random Forest Regr
 
 R^2 value of Neural Prophet had improved
 
-Time: 1:41am
+
+If we remove the outliers the target values become constant as the outliers removed represented the peak and through values of the sales. So we have decided to keep the outliers.
+
+
+Time: 1:53 am
 
 
 
