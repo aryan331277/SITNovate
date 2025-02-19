@@ -1,0 +1,2 @@
+MAE_val=1.05e+3, RMSE_val=1.88e+3, Loss_val=0.0907, RegLoss_val=0.000139, train_loss=0.0452, reg_loss=0.000139, MAE=842.0, RMSE=1.84e+3, Loss=0.0442, RegLoss=0.000139  R^2-->0.62
+The data was in the range of 10000s
