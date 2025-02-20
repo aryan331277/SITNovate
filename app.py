@@ -14,9 +14,9 @@ st.set_page_config(page_title="Time Series Forecast Pro", layout="wide")
 # Custom CSS styling
 st.markdown("""
 <style>
-    .main {background-color: #f5f5f5;}
+    .main {background-color: #000000;}
     h1 {color: #2a3f5f;}
-    .st-bw {background-color: #ffffff;}
+    .st-bw {background-color: #000000;}
     .css-18e3th9 {padding: 2rem 5rem;}
 </style>
 """, unsafe_allow_html=True)
