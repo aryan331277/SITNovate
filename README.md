@@ -111,6 +111,22 @@ Worked on documentation of the entire project
 Trying and making it scalable and simple at the same time
 
 
+Round 6:
+
+GRUs and Encoder Decoder works very well on 2 crore dataset
+
+RandomForest and other baseline models were applied to get the desired results
+
+Graphs and values are coming very well for all of the models
+
+Decided to change ARIMA and apply something else
+
+Will start working on the presentation
+
+Time 7:48 am
+
+
+
 
 
 
